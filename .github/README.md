@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is the Sector File Development Repository for the fywf Dar es Salaam FIR (including the HBBA and HRYR FIRs) for use on Euroscope as part of the VATSIM online ecosystem. It's not meant to be used for any real world aviation capability.
+This is the Sector File Development Repository for the FYWF Windhoek FIR for use on Euroscope as part of the VATSIM online ecosystem. It's not meant to be used for any real world aviation capability.
 
 ## Overview
 
@@ -13,11 +13,11 @@ The Windhoek FIR covers the entirety of Namibia's borders.
 
 ## Countries & Territories
 
-- Namibia
+- [Namibia](https://eaip.vatssa.com/country/namibia/home)
 
 ## Key Airports
 
-- FYWH |
+- [FYWH](https://eaip.vatssa.com/airport/fywh/home) | Hosea Kutako International Airport
 
 ## How to Contribute
 
